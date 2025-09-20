@@ -10,8 +10,10 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 ### Step 3: Using the np.linalg.eig(),  we get two results (first is eigenvalue and second is eigenvector) of the given matrix.
 ### Step 4: 
 
-## Program:
+## Program:<img width="603" height="110" alt="image" src="https://github.com/user-attachments/assets/373367d3-ce77-4682-b7b8-118990370548" />
 
-## Output:
+
+## Output:![Uploading image.png…]()
+
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
